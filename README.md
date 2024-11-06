@@ -6,8 +6,6 @@ Welcome to the official GitHub repository for the **Whimsy** 2D platformer game!
 
 <p align="center">
   <img src="Assets/Screenshots/Screenshot_1.png" width="600" />
-  <img src="Assets/Screenshots/Screenshot_2.png" width="600" />
-  <img src="Assets/Screenshots/Screenshot_3.png" width="600" />
 </p>
 
 ---
@@ -21,6 +19,10 @@ In **Whimsy**, players navigate through a beautifully crafted 2D world filled wi
 - Engaging and interactive obstacles.
 - Beautifully designed levels with increasing difficulty.
 - Enemies to challenge players.
+
+<p align="center">
+  <img src="Assets/Screenshots/Screenshot_2.png" width="600" />
+</p>
 
 ---
 
@@ -38,5 +40,9 @@ This repository contains the main gameplay scripts and related code for **Whimsy
 - **VILE** - Handles swinging mechanism on chain or vile.
 
 > **Note**: This repository does not contain game assets (e.g., sprites, sounds). It is solely for code-related files used to develop gameplay mechanics.
+
+<p align="center">
+  <img src="Assets/Screenshots/Screenshot_3.png" width="600" />
+</p>
 
 ---
