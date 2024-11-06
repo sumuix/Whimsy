@@ -5,12 +5,10 @@ Welcome to the official GitHub repository for the **Whimsy** 2D platformer game!
 **Play the Game Here:** [Whimsy on Itch.io](https://sumuix.itch.io/whimsy)
 
 <p align="center">
-  <img src="Assets/Screenshots/Screenshot_1.png" width="200" />
-  <img src="Assets/Screenshots/Screenshot_2.png" width="200" />
+  <img src="Assets/Screenshots/Screenshot_1.png" width="600" />
+  <img src="Assets/Screenshots/Screenshot_2.png" width="600" />
+  <img src="Assets/Screenshots/Screenshot_3.png" width="600" />
 </p>
-
-
-![Game Screenshot](Assets/Screenshots/Screenshot_1.png) ![Game Screenshot](Assets/Screenshots/Screenshot_2.png) ![Game Screenshot](Assets/Screenshots/Screenshot_3.png)
 
 ---
 
